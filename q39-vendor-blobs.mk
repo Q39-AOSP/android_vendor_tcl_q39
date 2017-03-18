@@ -35,6 +35,8 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/bin/racoon:system/bin/racoon \
     vendor/tcl/q39/proprietary/bin/dumpstate:system/bin/dumpstate \
     vendor/tcl/q39/proprietary/bin/uncrypt:system/bin/uncrypt \
+    vendor/tcl/q39/proprietary/bin/mpu6050_gyro_cal:system/bin/mpu6050_gyro_cal \
+    vendor/tcl/q39/proprietary/bin/compass_lib_cfg:system/bin/compass_lib_cfg \
     vendor/tcl/q39/proprietary/lib/libaisfframework_v3_0.so:system/lib/libaisfframework_v3_0.so \
     vendor/tcl/q39/proprietary/lib/libaisfimagecodec_v3_0.so:system/lib/libaisfimagecodec_v3_0.so \
     vendor/tcl/q39/proprietary/lib/libaisf_picauto_processor.so:system/lib/libaisf_picauto_processor.so \

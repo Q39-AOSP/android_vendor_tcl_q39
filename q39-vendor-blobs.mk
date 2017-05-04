@@ -953,8 +953,4 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/vendor/lib64/libmmcamera_s5k4h5_8916_coasia.so:system/vendor/lib64/libmmcamera_s5k4h5_8916_coasia.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libmmcamera_s5k4h5_8916_eyeverify_coasia.so:system/vendor/lib64/libmmcamera_s5k4h5_8916_eyeverify_coasia.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libmmcamera_s5k4h5_8916_eyeverify.so:system/vendor/lib64/libmmcamera_s5k4h5_8916_eyeverify.so \
-    vendor/tcl/q39/proprietary/vendor/lib64/libmmcamera_s5k4h5_8916.so:system/vendor/lib64/libmmcamera_s5k4h5_8916.so \
-    vendor/tcl/q39/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
-    vendor/tcl/q39/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/tcl/q39/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk
-
+    vendor/tcl/q39/proprietary/vendor/lib64/libmmcamera_s5k4h5_8916.so:system/vendor/lib64/libmmcamera_s5k4h5_8916.so
